@@ -1,3 +1,4 @@
+http://example.com/2022/11/03/My-New-Post/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/2022/11/02/hello-world/
