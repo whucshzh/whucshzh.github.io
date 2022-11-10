@@ -106,9 +106,9 @@
     
     <category term="redis" scheme="http://whucshzh.github.io/tags/redis/"/>
     
-    <category term="NoSql" scheme="http://whucshzh.github.io/tags/NoSql/"/>
-    
     <category term="后端开发" scheme="http://whucshzh.github.io/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="NoSql" scheme="http://whucshzh.github.io/tags/NoSql/"/>
     
   </entry>
   
