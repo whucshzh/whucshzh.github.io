@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/11/10/Redis%E5%AE%9E%E6%88%98%E7%AF%87/</loc>
+    <loc>http://whucshzh.github.io/link/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/10/redis%E5%9F%BA%E7%A1%80/</loc>
+    <loc>http://whucshzh.github.io/tags/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/myself/index.html</loc>
+    <loc>http://whucshzh.github.io/categories/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://whucshzh.github.io/2022/11/10/Redis%E5%AE%9E%E6%88%98%E7%AF%87/</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/timeline/index.html</loc>
+    <loc>http://whucshzh.github.io/2022/11/10/redis%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index-1.html</loc>
+    <loc>http://whucshzh.github.io/myself/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/messageboard/index.html</loc>
+    <loc>http://whucshzh.github.io/about/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://whucshzh.github.io/timeline/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -74,25 +74,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://whucshzh.github.io/messageboard/index.html</loc>
     
-    <lastmod>2022-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/02/hello-world/</loc>
+    <loc>http://whucshzh.github.io/2022/11/02/hello-world/</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -102,7 +93,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://whucshzh.github.io/</loc>
     <lastmod>2022-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
