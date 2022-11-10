@@ -1,3 +1,4 @@
+http://example.com/2022/11/10/Redis%E5%AE%9E%E6%88%98%E7%AF%87/
 http://example.com/myself/index.html
 http://example.com/about/index.html
 http://example.com/timeline/index.html
